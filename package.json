@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "grpc": "1.8.0"
+  },
+  "engines": {
+    "node": "6.11.2",
+    "npm":  "3.10.10"
+  },
+  "main": "app.js",
+  "name": "lightning-node",
+  "version": "0.0.1"
+}
